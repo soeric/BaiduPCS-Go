@@ -892,10 +892,6 @@ cli交互模式下, 运行命令 `config set -max_parallel 250` 将下载最大�
 
 QQ群: 178324706
 
-# 捐助
 
-如果你愿意.
 
-|支付宝|微信|
-|:-----:|:-----:|
-|![alipay](https://github.com/iikira/BaiduPCS-Go/raw/master/assets/donate/alipay.jpg)|![weixin](https://github.com/iikira/BaiduPCS-Go/raw/master/assets/donate/weixin.png)|
+
